@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Commute - travel expenses calculator</string>
+    <string name="begin_journey">Begin new Journey</string>
+    <string name="buttonContinue">Continue</string>
+    <string name="hintEnterName">Enter your name</string>
+    <string name="hintEnterTravelMatesName">Enter TravelMates name</string>
+    <string name="addTravelMate">Add Travel Mates</string>
+    <string name="addMateButton">Add Mate</string>
+    <string name="travelMateAddedToast">TravelMate added. (press back if done)</string>
+    <string name="addMoreTravelMateHint">Add more TravelMates.</string>
+    <string name="doneAddingTravelMateButton">Done adding TravelMates</string>
+    <string name="trackExpenses">Track Expenses</string>
+    <string name="defaultAmount">0</string>
+    <string name="addAmountButton">Add</string>
+    <string name="subAmountButton">Subtract</string>
+    <string name="addSubAmountHint">Enter Amount</string>
+    <string name="splitAmountEquallyButton">Split Amount Equally</string>
+    <string name="noFunctionWarning">Sorry! No function written  :(</string>
+</resources>
